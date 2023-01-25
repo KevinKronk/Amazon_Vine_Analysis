@@ -22,3 +22,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
   - Of the Vine reviews, 51.06% were 5 stars, and of the non-Vine reviews, 38.70% were 5 stars. 
 
 ## Summary
+
+Vine reviews had 12.36% more 5 stars than non-Vine reviews. Based on these results it appears that the Vine reviews are biased toward being 5 stars. That being said the sample size is fairly small in this case, with there only being 94 Vine reviews that had at least 20 total votes and were 50% or more helpful. That's only roughly 0.23% of the total votes that met these criteria. It might be interesting to see how many total Vine and non-Vine reviews there were regardless of how many total votes or helpful votes they had. Then calculate the percentage that were highly rated and helpful. It's possible that Vine reviews tend to be more positive than non-Vine reviews, but also tend to be considered less helpful. 
